@@ -1,6 +1,7 @@
 //Business Logic
-function temperatureConversion() {
-  let = 
+function toCelsius() {
+  parseInt(faranheit -32 *5/9);
+  return
 }
 
 
@@ -10,6 +11,9 @@ function temperatureConversion() {
 
 
 
-
 //User Interface Logic
-const degrees = parseInt(prompt("Enter the temperature in Farenheit"));
+const faranheit = parseInt(prompt("Enter the temperature in Farenheit:"));
+//const toCelsius = parseInt(prompt("Degrees in Celsius:"))
+//The above created a prompt window to enter a number that is not a string
+
+window.alert(Celsius + "")
